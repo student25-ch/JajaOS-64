@@ -1,5 +1,4 @@
 
-## 额外可选：CONTRIBUTING.md（贡献说明，GitHub推荐）
 ```markdown
 # Contributing to JajaOS
 Welcome to contribute to JajaOS!
